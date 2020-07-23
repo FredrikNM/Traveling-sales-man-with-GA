@@ -1,4 +1,4 @@
-Traveling Salesman with diffrent algos :
+Traveling salesman with diffrent algos :
 
 1. Exhaustive
 2. Hill
