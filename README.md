@@ -9,7 +9,8 @@ With example as showned in jupyter nootbook, Algos_ex_hill_ga
   
 Traveling salesman ( https://en.wikipedia.org/wiki/Travelling_salesman_problem ):  
   
-Imagine a salesman that has to travel through different cities and then back home, and you are tasked with finding the shortes route. 
+Imagine a salesman that has to travel to different cities and then back home, and your task is to find the shortes route  
+that visits all the cities.  
 If the cities are London, Paris, Rome and he travel from Brussel (H for home), then it would be pretty easy to check
 what the shortest route is, since there are just a few options :   
   
