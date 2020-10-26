@@ -1,6 +1,6 @@
 Traveling salesman with diffrent algos :
 
-1. Exhaustive
+1. Exhaustive Search (Try every alternative that exists)
 2. Hill
 3. Genetic
 
